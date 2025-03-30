@@ -1,0 +1,6 @@
+2025-02-18 11:19:44.353  INFO 7588 --- [restartedMain] c.examly.springapp.SpringappApplication  : Starting SpringappApplication using Java 23.0.1 on VIJAY2005 with PID 7588 (C:\Users\vijay\Downloads\projectneo\4cd9ba22-874d-4a04-a46e-797d8937f0c0-7dfbdb9a-8489-4af9-9407-363f64cb22c1-1\springapp\target\classes started by vijay in C:\Users\vijay\Downloads\projectneo\4cd9ba22-874d-4a04-a46e-797d8937f0c0-7dfbdb9a-8489-4af9-9407-363f64cb22c1-1)
+2025-02-18 11:19:44.356  INFO 7588 --- [restartedMain] c.examly.springapp.SpringappApplication  : No active profile set, falling back to 1 default profile: "default"
+2025-02-18 11:19:44.492  INFO 7588 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-02-18 11:19:44.493  INFO 7588 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-02-18 11:19:46.141  INFO 7588 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-18 11:19:46.293  INFO 7588 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 116 ms. Found 6 JPA repository interfaces.
